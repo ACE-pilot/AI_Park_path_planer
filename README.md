@@ -1,8 +1,5 @@
-您好，欢迎访问我的代码，以下是运行代码的方法：
-1.通过在终端运行python test_CSV.py --restore --show来测试当前已经训练好的模型的效果，您可以在savegoodresults文件夹中找到自动保存的结果。请确保model文件夹中的模型文件没有被新的训练覆盖，如果已经被覆盖，可以前往z_protect文件夹中拷贝。您也可以折在z_protect文件夹中看到之前的train_log。
-2.通过运行train.py来训练新的智能体模型。
-为了体现研究的真实性，我们保留了所有的修改版代码，一些旧版的代码可能在运行库上有冲突或是错误。如果您想尝试可视化三维模型请安装Rhino8及相关grasshopper插件以及Enscape渲染器插件。
-
+#AI_Park_path_planer
+Automated Path Planning Method for Urban Street-Corner Parks Based on Multi-Agent Deep Reinforcement Learning
 
 Hello, and welcome to my code repository. Below are the instructions for running the code:
 
